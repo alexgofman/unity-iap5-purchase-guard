@@ -1,0 +1,14 @@
+{
+    "name": "Iap5PurchaseGuard.Core",
+    "rootNamespace": "Iap5PurchaseGuard",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

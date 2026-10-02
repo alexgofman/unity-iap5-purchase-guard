@@ -1,0 +1,20 @@
+{
+    "name": "Iap5PurchaseGuard.Unity",
+    "rootNamespace": "Iap5PurchaseGuard",
+    "references": [
+        "Iap5PurchaseGuard.Core",
+        "Unity.Purchasing",
+        "Unity.Purchasing.Security",
+        "Unity.Purchasing.SecurityStub",
+        "Unity.Purchasing.SecurityCore"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

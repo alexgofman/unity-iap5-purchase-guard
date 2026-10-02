@@ -1,0 +1,29 @@
+{
+  "name": "com.alexgofman.iap5-purchase-guard",
+  "version": "0.1.0",
+  "displayName": "IAP 5 Purchase Guard",
+  "description": "Client-side purchase hardening for Unity IAP 5: a four-verdict receipt gate with a stated fail-open or fail-closed policy, a persisted transaction ledger so a redelivered order is confirmed again instead of granted again, a fixed order of operations (dedupe, trust gate, grant, confirm), explicit store naming, refund detection by owned-set diff, and install-source detection.",
+  "unity": "6000.0",
+  "license": "MIT",
+  "keywords": [
+    "iap",
+    "in-app purchases",
+    "purchasing",
+    "receipt validation",
+    "google play",
+    "security"
+  ],
+  "author": {
+    "name": "Alex Gofman"
+  },
+  "dependencies": {
+    "com.unity.purchasing": "5.4.3"
+  },
+  "samples": [
+    {
+      "displayName": "Basic setup",
+      "description": "A three-product catalogue, entitlements kept in PlayerPrefs, and an IMGUI screen that buys and restores.",
+      "path": "Samples~/BasicSetup"
+    }
+  ]
+}
